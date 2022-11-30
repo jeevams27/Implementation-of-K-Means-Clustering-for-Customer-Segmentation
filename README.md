@@ -22,9 +22,9 @@ Print the outputs and end the program
 # Program:
 Program to implement the K Means Clustering for Customer Segmentation.
 
-Developed by: Manoj Kumar S 
+Developed by: MS JEEVA
 
-Register Number: 212221230056   
+Register Number: 212221230040   
 ```python
 import pandas as pd
 import matplotlib.pyplot as plt
